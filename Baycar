@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Mini Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to the AI Mini Website</h1>
+    <!-- Content goes here -->
+    <script src="script.js"></script>
+</body>
+</html
